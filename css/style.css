@@ -1,16 +1,16 @@
 .number{
     background-color: lightblue;
 }
-.fizz{
+.Fizz{
     background-color: aqua;
 }
-.buzz{
+.Buzz{
     background-color: yellow;
 }
-.fizzbuzz{
+.FizzBuzz{
     background-color: red;
 }
-.number,.fizz,.buzz,.fizzbuzz{
+.number,.Fizz,.Buzz,.FizzBuzz{
     aspect-ratio: 1;
     display:flex;
     align-items: center;
